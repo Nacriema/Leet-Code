@@ -4,7 +4,8 @@ Repository for my solutions at Leetcode
 
 ## Target
 
-Solve one question / day
+- Solve one question / day
+- Try to optimize the solution, interm of execution time
 
 ## Naming format
 
