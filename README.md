@@ -20,3 +20,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `24/08/2023` Add solution for the `Text Justification` problem
 - [x] `25/08/2023` Add solution for the `Interleaving String` problem
 - [x] `26/08/2023` Add solution for the `Maximum Length Of Pair Chain` problem
+
+## Review solution
+
+At the end of the week, I have review of the problem set and see how can I optimize the code or implement new way of solving the problem
