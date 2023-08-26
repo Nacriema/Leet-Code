@@ -19,3 +19,4 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `23/08/2023` Add solution for the `Reorganize String` problem
 - [x] `24/08/2023` Add solution for the `Text Justification` problem
 - [x] `25/08/2023` Add solution for the `Interleaving String` problem
+- [x] `26/08/2023` Add solution for the `Maximum Length Of Pair Chain` problem
