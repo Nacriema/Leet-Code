@@ -13,6 +13,11 @@ The script's name based on the name of the problem at the url bar:
 
 Example: `reorganize-string.py` will solve the problem stated at `https://leetcode.com/problems/reorganize-string/`
 
+## File structure
+
+- `daily_challenges` folder contains the solution that I random received each day when logging to LeetCode
+-  `topic` folder contains the solutions for the specific problem set topics of LeetCode
+
 ## Update
 
 - [x] `22/08/2023` Add solution for the `Excel Sheet Column Title` problem
