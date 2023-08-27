@@ -25,6 +25,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `24/08/2023` Add solution for the `Text Justification` problem
 - [x] `25/08/2023` Add solution for the `Interleaving String` problem
 - [x] `26/08/2023` Add solution for the `Maximum Length Of Pair Chain` problem
+- [x] `27/08/2023` Add solution for the `Frog Jump` problem
 
 ## Review solution
 
