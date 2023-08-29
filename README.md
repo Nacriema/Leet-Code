@@ -16,7 +16,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 ## File structure
 
 - `daily_challenges` folder contains the solution that I random received each day when logging to LeetCode
--  `topic` folder contains the solutions for the specific problem set topics of LeetCode
+- `topic` folder contains the solutions for the specific problem set topics of LeetCode
 
 ## Update
 
@@ -27,6 +27,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `26/08/2023` Add solution for the `Maximum Length Of Pair Chain` problem
 - [x] `27/08/2023` Add solution for the `Frog Jump` problem
 - [x] `28/08/2023` Add solution for the `Implement Stack using Queues` problem
+- [x] `29/08/2023` Add solution for the `Minimum Penalty for a Shop` problem
 
 ## Review solution
 
