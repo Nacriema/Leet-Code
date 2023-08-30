@@ -28,6 +28,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `27/08/2023` Add solution for the `Frog Jump` problem
 - [x] `28/08/2023` Add solution for the `Implement Stack using Queues` problem
 - [x] `29/08/2023` Add solution for the `Minimum Penalty for a Shop` problem
+- [x] `30/08/2023` Add solution for the `Minimum Replacements to Sort the Array` problem
 
 ## Review solution
 
