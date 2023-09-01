@@ -30,6 +30,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `29/08/2023` Add solution for the `Minimum Penalty for a Shop` problem
 - [x] `30/08/2023` Add solution for the `Minimum Replacements to Sort the Array` problem
 - [x] `31/08/2023` Add solution for the `Minimum Number of Taps to Open to Water a Garden` problem
+- [x] `01/09/2023` Add solution for the `Counting Bits` problem
 
 ## Review solution
 
