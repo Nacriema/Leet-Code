@@ -31,6 +31,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `30/08/2023` Add solution for the `Minimum Replacements to Sort the Array` problem
 - [x] `31/08/2023` Add solution for the `Minimum Number of Taps to Open to Water a Garden` problem
 - [x] `01/09/2023` Add solution for the `Counting Bits` problem
+- [x] `02/09/2023` Add solution for the `Extra Characters in a String` problem
 
 ## Review solution
 
