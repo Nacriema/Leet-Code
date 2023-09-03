@@ -32,7 +32,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `31/08/2023` Add solution for the `Minimum Number of Taps to Open to Water a Garden` problem
 - [x] `01/09/2023` Add solution for the `Counting Bits` problem
 - [x] `02/09/2023` Add solution for the `Extra Characters in a String` problem
-- [x] `03/09/2023` Add solution for the `Unique Paths` problem
+- [x] `03/09/2023` Add solution for the `Unique Paths`, `Remove Invalid Parentheses` problem
 
 ## Review solution
 
