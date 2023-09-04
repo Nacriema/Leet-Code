@@ -29,6 +29,9 @@
 
     Use Floyd's Cycle-Finding Algorithm
         - Fast pointer (2 steps) and Slow pointer (1 step)
+        - Loop to the end of slow pointer or end of fast pointer
+            If during the loop, we found that the slow and fast meed each other, then the linked list has cycle
+        - Else return False
 
     """
 from typing import Optional
