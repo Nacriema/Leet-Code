@@ -34,6 +34,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `02/09/2023` Add solution for the `Extra Characters in a String` problem
 - [x] `03/09/2023` Add solution for the `Unique Paths`, `Remove Invalid Parentheses` problem
 - [x] `04/09/2023` Add solution for the `Linked List Cycle`, `Sudoku Solver`, `Longest Valid Parentheses`, `Remove Element` problem
+- [x] `05/09/2023` Add solution for the `Copy List with Random Pointer` problem
 
 ## Review solution
 
