@@ -39,3 +39,5 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 ## Review solution
 
 At the end of the week, I have review of the problem set and see how can I optimize the code or implement new way of solving the problem
+
+### Review Logs
