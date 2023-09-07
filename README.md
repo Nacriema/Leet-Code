@@ -36,6 +36,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `04/09/2023` Add solution for the `Linked List Cycle`, `Sudoku Solver`, `Longest Valid Parentheses`, `Remove Element` problem
 - [x] `05/09/2023` Add solution for the `Copy List with Random Pointer` problem
 - [x] `06/09/2023` Add solution for the `Split Linked List in Parts` problem
+- [x] `07/09/2023` Add solution for the `Reverse Linked List II` problem
 
 ## Review solution
 
