@@ -38,7 +38,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `06/09/2023` Add solution for the `Split Linked List in Parts` problem
 - [x] `07/09/2023` Add solution for the `Reverse Linked List II` problem
 - [x] `08/09/2023` Add solution for the `Pascal's Triangle` problem
-- [x] `09/09/2023` Add solution for the `Rotate Image`, `Max Points On A Line` problem
+- [x] `09/09/2023` Add solution for the `Rotate Image`, `Max Points On A Line`, `Combination Sum IV` problem
 
 ## Review solution
 
