@@ -39,6 +39,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `07/09/2023` Add solution for the `Reverse Linked List II` problem
 - [x] `08/09/2023` Add solution for the `Pascal's Triangle` problem
 - [x] `09/09/2023` Add solution for the `Rotate Image`, `Max Points On A Line`, `Combination Sum IV` problem
+- [x] `10/09/2023` Add solution for the `Count All Valid Pickup and Delivery Options` problem
 
 ## Review solution
 
