@@ -42,7 +42,8 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `10/09/2023` Add solution for the `Count All Valid Pickup and Delivery Options` problem
 - [x] `11/09/2023` Add solution for the `Group the People Given the Group Size They Belong To` problem
 - [x] `12/09/2023` Add solution for the `Minimum Deletions to Make Character Frequencies Unique` problem
-- [x] `13/09/2023` Add solution for the `Candy` problem 
+- [x] `13/09/2023` Add solution for the `Candy` problem
+- [x] `14/09/2023` Add solution for the `Reconstruct Intinerary` problem
 
 ## Review solution
 
