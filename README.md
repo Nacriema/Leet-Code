@@ -44,6 +44,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `12/09/2023` Add solution for the `Minimum Deletions to Make Character Frequencies Unique` problem
 - [x] `13/09/2023` Add solution for the `Candy` problem
 - [x] `14/09/2023` Add solution for the `Reconstruct Intinerary` problem
+- [x] `15/09/2023` Add solution for the `Min Cost To Connect All Points` problem
 
 ## Review solution
 
