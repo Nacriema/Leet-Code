@@ -26,6 +26,7 @@
 """
 from typing import List
 import math
+from itertools import combinations
 
 
 class Solution:
@@ -38,17 +39,6 @@ class Solution:
                 - Pick the smallest edge. Check if it form the cycle with the spanning tree formed so far. If the cycle is not formed, include this edge. Else, discard it.
                 - Repeat step 2 util there have V - 1 edges in the spanning tree (V is the number of verticies - points)
         """
-        # A class to represent a graph object
-        class Graph:
-            # Constructor
-            def __init__(self, edges, n):
-                self.adjList = [[] for _ in range(n)]
-
-                # add edges to the undirected graph (add each edge once only to avoid
-                # detecting cycles among the same edges, say x -> y and y -> x)
-                for (src, dest) in edges:
-                    self.adjList[src].append(dest)
-        
         # A class to represent a disjoint set
         class DisjointSet:
             # Parent contains key, val (node: parent_of_node)
@@ -81,9 +71,8 @@ class Solution:
         
         edges = []
         
-        for i in range(len(points)):
-            for j in range(i + 1, len(points)):
-                edges.append((i, j, manhattan_dis(points[i], points[j])))
+        for i, j in list(combinations(range(len(points)), 2)):
+            edges.append((i, j, manhattan_dis(points[i], points[j])))
         
         # Sort the table of edges in non-decreasing order 
         edges = list(sorted(edges, key=lambda x: x[2]))
