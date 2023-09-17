@@ -45,6 +45,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `13/09/2023` Add solution for the `Candy` problem
 - [x] `14/09/2023` Add solution for the `Reconstruct Intinerary` problem
 - [x] `15/09/2023` Add solution for the `Min Cost To Connect All Points` problem
+- [x] `17/09/2023` Add solution for the `Path with minimum effort`, `Shortest path visiting all nodes` problem
 
 ## Review solution
 
