@@ -48,6 +48,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `17/09/2023` Add solution for the `Path with minimum effort`, `Shortest path visiting all nodes` problem
 - [x] `19/09/2023` Add solution for the `Find The Duplicate Number` problem
 - [x] `20/09/2023` Add solution for the `Minimum Operations To Reduce X To Zero` problem
+- [x] `22/09/2023` Add solution for the `Is Subsequence` problem
 
 ## Review solution
 
