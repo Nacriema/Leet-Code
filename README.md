@@ -50,6 +50,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `20/09/2023` Add solution for the `Minimum Operations To Reduce X To Zero` problem
 - [x] `22/09/2023` Add solution for the `Is Subsequence` problem
 - [x] `24/09/2023` Add solution for the `Champagne Tower` problem
+- [x] `25/09/2023` Add solution for the `Find The Difference` problem 
 
 ## Review solution
 
