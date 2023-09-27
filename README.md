@@ -52,6 +52,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `24/09/2023` Add solution for the `Champagne Tower` problem
 - [x] `25/09/2023` Add solution for the `Find The Difference` problem
 - [x] `26/09/2023` Add solution for the `Remove Duplicate Letters` problem
+- [x] `27/09/2023` Add solution for the `Decoded String At Index` problem
 
 ## Review solution
 
