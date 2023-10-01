@@ -56,7 +56,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `28/09/2023` Add solution for the `Sort Array By Parity` problem
 - [x] `29/09/2023` Add solution for the `Monotonic Array` problem
 - [x] `30/09/2023` Add solution for the `132 Pattern` problem
-- [x] `01/10/2023` Add solution for the `Reverse Words In A String III` problem
+- [x] `01/10/2023` Add solution for the `Reverse Words In A String III`, `Find The Index Of The First Occurence In A String` problem
 
 ## Review solution
 
