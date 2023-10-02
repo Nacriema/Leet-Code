@@ -57,6 +57,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `29/09/2023` Add solution for the `Monotonic Array` problem
 - [x] `30/09/2023` Add solution for the `132 Pattern` problem
 - [x] `01/10/2023` Add solution for the `Reverse Words In A String III`, `Find The Index Of The First Occurence In A String`, `Length Of Last Word` problem
+- [x] `02/10/2023` Add solution for the `Remove Colored Pieces If Both Neighbors Are The Same Color` problem 
 
 ## Review solution
 
