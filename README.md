@@ -61,6 +61,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `03/10/2023` Add solution for the `Number Of Good Pairs`, `Plus One` problem
 - [x] `05/10/2023` Add solution for the `Majority Element II` problem
 - [x] `06/10/2023` Add solution for the `Integer Break ` problem
+- [x] `09/10/2023` Add solution for the `Find First and Last Position of Element in Sorted Array` problem
 
 ## Review solution
 
