@@ -64,6 +64,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `09/10/2023` Add solution for the `Find First and Last Position of Element in Sorted Array` problem
 - [x] `10/10/2023` Add solution for the `Minimum Number Of Operations To Make Array Continuous` problem
 - [x] `11/10/2023` Add solution for the `Number of Flowers in Full Bloom` problem
+- [x] `12/10/2023` Add solution for the `Find In Mountain Array` problem
 
 ## Review solution
 
