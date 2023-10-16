@@ -68,6 +68,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `13/10/2023` Add solution for the `Min Cost Climbing Stairs` problem
 - [x] `14/10/2023` Add solution for the `Painting the Walls` problem
 - [x] `15/10/2023` Add solution for the `Number of Ways to Stay in the Same Place After Some Steps` problem
+- [x] `16/10/2023` Add solution for the `Pascal Triangle II` problem
 
 ## Review solution
 
