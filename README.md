@@ -69,6 +69,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `14/10/2023` Add solution for the `Painting the Walls` problem
 - [x] `15/10/2023` Add solution for the `Number of Ways to Stay in the Same Place After Some Steps` problem
 - [x] `16/10/2023` Add solution for the `Pascal Triangle II` problem
+- [x] `19/10/2023` Add solution for the `Backspace String Compare` problem
 
 ## Review solution
 
