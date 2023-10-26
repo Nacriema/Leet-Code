@@ -73,6 +73,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `23/10/2023` Add solution for the `Power Of Four`, `Maximum Score Of A Good Subarray` problem
 - [x] `24/10/2023` Add solution for the `Find The Largest Value In Each Tree Row` problem
 - [x] `25/10/2023` Add solution for the `K-th Symbol in Grammar` problem
+- [x] `26/10/2023` Add solution for the `Binary Trees With Factors` problem
 
 ## Review solution
 
