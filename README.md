@@ -74,6 +74,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `24/10/2023` Add solution for the `Find The Largest Value In Each Tree Row` problem
 - [x] `25/10/2023` Add solution for the `K-th Symbol in Grammar` problem
 - [x] `26/10/2023` Add solution for the `Binary Trees With Factors` problem
+- [x] `27/10/2023` Add solution for the `Longest Palindromic Substring` problem
 
 ## Review solution
 
