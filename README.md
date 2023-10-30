@@ -76,6 +76,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `26/10/2023` Add solution for the `Binary Trees With Factors` problem
 - [x] `27/10/2023` Add solution for the `Longest Palindromic Substring` problem
 - [x] `28/10/2023` Add solution for the `Count Vowels Permutation`, `Valid Palindrome`, `Add Binary` problem
+- [x] `30/10/2023` Add solution for the `Sort Integers by The Number of 1 Bits` problem
 
 ## Review solution
 
