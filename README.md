@@ -81,6 +81,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `01/11/2023` Add solution for the `Find Mode in Binary Search Tree` problem
 - [x] `02/11/2023` Add solution for the `Count Nodes Equals to Average of Subtree` problem
 - [x] `04/11/2023` Add solution for the `Last Moment Before All Ants Fall Out of a Plank` problem
+- [x] `05/11/2023` Add solution for the `Find the Winner of an Array Game` problem
 
 ## Review solution
 
