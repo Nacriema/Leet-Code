@@ -69,7 +69,6 @@ class SeatManager:
         """
         self.available_seat = list(range(1, n+1))
         heapify(self.available_seat)
-        self.occupied_seat = set() # type: set
     
     def reserve(self) -> int:
         """
@@ -77,11 +76,9 @@ class SeatManager:
             Set it to the occupied_seat
         """
         available = heappop(self.available_seat)
-        self.occupied_seat.add(available)
         return available
     
     def unreserve(self, seatNumber: int) -> None:
-        self.occupied_seat.discard(seatNumber)
         heappush(self.available_seat, seatNumber)
     
 # Your SeatManager object will be instantiated and called as such:
