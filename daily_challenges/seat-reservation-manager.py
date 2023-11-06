@@ -36,6 +36,8 @@
             * You need a data structure that maintains the states of the seats. This data structure should also allow you to get the first available seat and flip the state of a seat in a reasonable time.
             * You can let the data structure contains the available seats. Then you want to be able to get the lowest element and erase an element, in a resonable time.
             * Ordered sets support these operations.
+            
+        NOTE: There is a better approach check this out here: https://leetcode.com/problems/seat-reservation-manager/editorial/?envType=daily-question&envId=2023-11-06
 """
 class SeatManagerTLE:
     def __init__(self, n: int):
