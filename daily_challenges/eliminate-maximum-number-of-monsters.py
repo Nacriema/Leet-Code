@@ -49,7 +49,6 @@ class Solution:
     def eliminateMaximum(self, dist: List[int], speed: List[int]) -> int:
         # 1. Find the ammount of time it takes each monster to arrive the city 
         times_to_arrive = [math.ceil(a/b) for (a, b) in zip(dist, speed)] 
-        print(times_to_arrive)
         
         # 2. Sort the times to arrive
         times_to_arrive.sort()

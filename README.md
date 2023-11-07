@@ -83,7 +83,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `04/11/2023` Add solution for the `Last Moment Before All Ants Fall Out of a Plank` problem
 - [x] `05/11/2023` Add solution for the `Find the Winner of an Array Game` problem
 - [x] `06/11/2023` Add solution for the `Seat Reservation Manager` problem
-- [x] `07/11/2023` Add solution for the `Eliminate Maximum Number of Monster` problem
+- [x] `07/11/2023` Add solution for the `Eliminate Maximum Number of Monsters` problem
 
 ## Review solution
 
