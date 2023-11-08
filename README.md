@@ -84,7 +84,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `05/11/2023` Add solution for the `Find the Winner of an Array Game` problem
 - [x] `06/11/2023` Add solution for the `Seat Reservation Manager` problem
 - [x] `07/11/2023` Add solution for the `Eliminate Maximum Number of Monsters` problem
-- [x] `08/11/2023` Add solution for the `Determine if a Cell Is Reachable at a Given Time` problem
+- [x] `08/11/2023` Add solution for the `Determine if a Cell Is Reachable at a Given Time`, `Faulty Keyboard` problem
 
 ## Review solution
 
