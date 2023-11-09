@@ -30,8 +30,13 @@
             * 1 <= s.length <= 105
             * s consists of lowercase letters.
 """
+MOD = 10 ** 9 + 7
+
 class Solution:
     def countHomogenous(self, s: str) -> int:
+        """ 
+            The problem is very clear
+        """
         if len(s) == 1: return 1
         
         curr_continuous_cout = 1
@@ -44,11 +49,13 @@ class Solution:
             else:
                 print(f'Found {curr_continuous_cout} charracters {prev_char} !!')
                 rs += (curr_continuous_cout * (curr_continuous_cout + 1) // 2)
+                rs %= MOD
                 curr_continuous_cout = 1
                 prev_char = s[i]
         
         print(f'Found {curr_continuous_cout} charracters {prev_char} !!')
         rs += (curr_continuous_cout * (curr_continuous_cout + 1) // 2)
+        rs %= MOD
         return rs
     
     
