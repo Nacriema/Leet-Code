@@ -85,6 +85,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `06/11/2023` Add solution for the `Seat Reservation Manager` problem
 - [x] `07/11/2023` Add solution for the `Eliminate Maximum Number of Monsters` problem
 - [x] `08/11/2023` Add solution for the `Determine if a Cell Is Reachable at a Given Time`, `Faulty Keyboard`, `Count Pairs Whose Sum is Less than Target` problem
+- [x] `09/11/2023` Add solution for the `Count Number of Homogenous Substrings` problem
 
 ## Review solution
 
