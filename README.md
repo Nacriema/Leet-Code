@@ -88,6 +88,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `09/11/2023` Add solution for the `Count Number of Homogenous Substrings`, `Majority Element`, `Sum of Squares of Special Elements`, `Split Strings by Separator` problem
 - [x] `10/11/2023` Add solution for the `Restore The Array From Adjacent Pairs` problem
 - [x] `12/11/2023` Add solution for the `Design Graph With Shortest Path Calculator` problem
+- [x] `13/11/2023` Add solution for the `Sort Vowels In A String` problem
 
 ## Review solution
 
