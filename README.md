@@ -89,6 +89,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `10/11/2023` Add solution for the `Restore The Array From Adjacent Pairs` problem
 - [x] `12/11/2023` Add solution for the `Design Graph With Shortest Path Calculator` problem
 - [x] `13/11/2023` Add solution for the `Sort Vowels In A String` problem
+- [x] `14/11/2023` Add solution for the `Unique Length 3 Palindromic Subsequences` problem
 
 ## Review solution
 
