@@ -91,6 +91,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `13/11/2023` Add solution for the `Sort Vowels In A String` problem
 - [x] `14/11/2023` Add solution for the `Unique Length 3 Palindromic Subsequences` problem
 - [x] `16/11/2023` Add solution for the `Maximum Element After Decreasing And Rearranging`, `Find Unique Binary String` problem
+- [x] `17/11/2023` Add solution for the `Minimize Maximum Pair Sum in Array` problem
 
 ## Review solution
 
