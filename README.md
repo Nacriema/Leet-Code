@@ -95,6 +95,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `20/11/2023` Add solution for the `Minimum Amount of Time to Collect Garbage` problem
 - [x] `21/11/2023` Add solution for the `Count Nice Pairs in an Array` problem
 - [x] `22/11/2023` Add solution for the `Diagonal Traverse II` problem
+- [x] `23/11/2023` Add solution for the `Arithmetic Subarray` problem
 
 ## Review solution
 
