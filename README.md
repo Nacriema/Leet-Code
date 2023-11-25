@@ -97,6 +97,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `22/11/2023` Add solution for the `Diagonal Traverse II` problem
 - [x] `23/11/2023` Add solution for the `Arithmetic Subarray` problem
 - [x] `24/11/2023` Add solution for the `Maximum Number of Coins You Can Get` problem
+- [x] `25/11/2023` Add solution for the `Sum of Absolute Differences in a Sorted Array` problem
 
 ## Review solution
 
