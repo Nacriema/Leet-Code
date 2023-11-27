@@ -99,6 +99,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `24/11/2023` Add solution for the `Maximum Number of Coins You Can Get` problem
 - [x] `25/11/2023` Add solution for the `Sum of Absolute Differences in a Sorted Array` problem
 - [x] `26/11/2023` Add solution for the `Largest Submatrix With Rearrangements` problem
+- [x] `27/11/2023` Add solution for the `Knight Dialer` problem
 
 ## Review solution
 
