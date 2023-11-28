@@ -98,9 +98,13 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `23/11/2023` Add solution for the `Arithmetic Subarray` problem
 - [x] `24/11/2023` Add solution for the `Maximum Number of Coins You Can Get` problem
 - [x] `25/11/2023` Add solution for the `Sum of Absolute Differences in a Sorted Array` problem
+<<<<<<< Updated upstream
 - [x] `26/11/2023` Add solution for the `Largest Submatrix With Rearrangements` problem
 - [x] `27/11/2023` Add solution for the `Knight Dialer` problem
 - [x] `28/11/2023` Add solution for the `Number of Ways to Divide a Long Corridor` problem
+=======
+- [x] `26/11/2023` Add solution for the `Largest Submatrix With Rearrangements`, `Reverse Integer` problem
+>>>>>>> Stashed changes
 
 ## Review solution
 
