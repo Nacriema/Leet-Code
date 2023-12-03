@@ -104,6 +104,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `26/11/2023` Add solution for the `Largest Submatrix With Rearrangements`, `Reverse Integer` problem
 - [x] `27/11/2023` Add solution for the `Number of 1 Bits`, `Reduction Operations to Make the Array Elements Equal` problem
 - [x] `02/12/2023` Add solution for the `Find Words That Can Be Formed by Characters` problem
+- [x] `03/12/2023` Add solution for the `Minimum Time Visiting All Points` problem
 
 ## Review solution
 
