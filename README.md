@@ -106,6 +106,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `02/12/2023` Add solution for the `Find Words That Can Be Formed by Characters` problem
 - [x] `03/12/2023` Add solution for the `Minimum Time Visiting All Points` problem
 - [x] `04/12/2023` Add solution for the `Largest 3-Same-Digit Number in String` problem
+- [x] `05/12/2023` Add solution for the `Count of Matches in Tournament` problem
 
 ## Review solution
 
