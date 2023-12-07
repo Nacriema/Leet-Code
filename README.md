@@ -108,6 +108,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `04/12/2023` Add solution for the `Largest 3-Same-Digit Number in String` problem
 - [x] `05/12/2023` Add solution for the `Count of Matches in Tournament` problem
 - [x] `06/12/2023` Add solution for the `Calculate Money in Leetcode Bank` problem
+- [x] `07/12/2023` Add solution for the `Largest Odd Number in String` problem
 
 ## Review solution
 
