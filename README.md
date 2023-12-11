@@ -111,7 +111,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `07/12/2023` Add solution for the `Largest Odd Number in String` problem
 - [x] `08/12/2023` Add solution for the `Construct String from Binary Tree` problem
 - [x] `09/12/2023` Add solution for the `Happy Number` problem
-- [x] `11/12/2023` Add solution for the `Element Appearing More Than 25% In Sorted Array` problem
+- [x] `11/12/2023` Add solution for the `Element Appearing More Than 25% In Sorted Array`, `Transpose Matrix` problem
 
 ## Review solution
 
