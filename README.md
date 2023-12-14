@@ -113,7 +113,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `09/12/2023` Add solution for the `Happy Number` problem
 - [x] `11/12/2023` Add solution for the `Element Appearing More Than 25% In Sorted Array`, `Transpose Matrix` problem
 - [x] `12/12/2023` Add solution for the `Maximum Product of Two Elements in an Array` problem
-- [x] `13/12/2023` Add solution for the `Specical Position in a Binary Matrix` problem
+- [x] `13/12/2023` Add solution for the `Specical Position in a Binary Matrix`, `Find the Peaks` problem
 
 ## Review solution
 
