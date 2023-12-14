@@ -114,6 +114,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `11/12/2023` Add solution for the `Element Appearing More Than 25% In Sorted Array`, `Transpose Matrix` problem
 - [x] `12/12/2023` Add solution for the `Maximum Product of Two Elements in an Array` problem
 - [x] `13/12/2023` Add solution for the `Specical Position in a Binary Matrix`, `Find the Peaks` problem
+- [x] `14/12/2023` Add solution for the `Difference Between Ones and Zeros in Row and Column` problem
 
 ## Review solution
 
