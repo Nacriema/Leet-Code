@@ -117,6 +117,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `14/12/2023` Add solution for the `Difference Between Ones and Zeros in Row and Column`, `Contains Duplicate II`, `Isomorphic Strings` problem
 - [x] `15/12/2023` Add solution for the `Destination City` problem
 - [x] `19/12/2023` Add solution for the `Image Smoother` problem
+- [x] `21/12/2023` Add solution for the `Widest Vertical Area Between Two Points Containing No Points` problem
 
 ## Review solution
 
