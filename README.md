@@ -121,6 +121,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `22/12/2023` Add solution for the `Maximum Score After Splitting a String` problem
 - [x] `23/12/2023` Add solution for the `Path Crossing`, `Buy Two Chocolates`, `Maximum Product Difference Between Two Pairs`, `Repeated Substring Pattern` problem
 - [x] `24/12/2023` Add solution for the `Minimum Changes To Make Alternating Binary String` problem
+- [x] `25/12/2023` Add solution for the `Decode Ways` problem
 
 ## Review solution
 
