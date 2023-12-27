@@ -122,6 +122,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `23/12/2023` Add solution for the `Path Crossing`, `Buy Two Chocolates`, `Maximum Product Difference Between Two Pairs`, `Repeated Substring Pattern` problem
 - [x] `24/12/2023` Add solution for the `Minimum Changes To Make Alternating Binary String` problem
 - [x] `25/12/2023` Add solution for the `Decode Ways` problem
+- [x] `26/12/2023` Add solution for the `Minimum Time to Make Rope Colorful` problem
 
 ## Review solution
 
