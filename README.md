@@ -123,7 +123,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `24/12/2023` Add solution for the `Minimum Changes To Make Alternating Binary String` problem
 - [x] `25/12/2023` Add solution for the `Decode Ways` problem
 - [x] `26/12/2023` Add solution for the `Minimum Time to Make Rope Colorful`, `Minimum Operations to Make the Array Increasing` problem
-- [x] `01/01/2024` Add solution for the `Assign Cookies` problem
+- [x] `01/01/2024` Add solution for the `Assign Cookies`, `Largest Substring Between Two Equal Characters` problem
 
 ## Review solution
 
