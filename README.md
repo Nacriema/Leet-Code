@@ -125,6 +125,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `26/12/2023` Add solution for the `Minimum Time to Make Rope Colorful`, `Minimum Operations to Make the Array Increasing` problem
 - [x] `01/01/2024` Add solution for the `Assign Cookies`, `Largest Substring Between Two Equal Characters`, 
 `Redistribute Characters to Make All Strings Equal` problem
+- [x] `02/01/2024` Add solution for the `Convert an Array Into a 2D Array With Conditions` problem
 
 ## Review solution
 
