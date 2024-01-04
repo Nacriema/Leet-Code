@@ -126,7 +126,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `01/01/2024` Add solution for the `Assign Cookies`, `Largest Substring Between Two Equal Characters`, 
 `Redistribute Characters to Make All Strings Equal` problem
 - [x] `02/01/2024` Add solution for the `Convert an Array Into a 2D Array With Conditions` problem
-- [x] `04/01/2024` Add solution for the `Minimum Number of Operations to Make Array Empty` problem
+- [x] `04/01/2024` Add solution for the `Minimum Number of Operations to Make Array Empty`, `Number of Laser Beams in a Bank` problem
 
 ## Review solution
 
