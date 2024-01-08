@@ -128,6 +128,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `02/01/2024` Add solution for the `Convert an Array Into a 2D Array With Conditions` problem
 - [x] `04/01/2024` Add solution for the `Minimum Number of Operations to Make Array Empty`, `Number of Laser Beams in a Bank` problem
 - [x] `05/01/2024` Add solution for the `Longest Increasing Subsequence` problem 
+- [x] `08/01/2024` Add solution for the `Range Sum of BST` problem
 
 ## Review solution
 
