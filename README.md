@@ -130,6 +130,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `05/01/2024` Add solution for the `Longest Increasing Subsequence` problem 
 - [x] `08/01/2024` Add solution for the `Range Sum of BST` problem
 - [x] `09/01/2024` Add solution for the `Leaf-Similar Trees` problem
+- [x] `10/01/2024` Add solution for the `Amount of Time for Binary Tree to Be Infected` problem
 
 ## Review solution
 
