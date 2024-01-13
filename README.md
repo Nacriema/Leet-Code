@@ -131,6 +131,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `08/01/2024` Add solution for the `Range Sum of BST` problem
 - [x] `09/01/2024` Add solution for the `Leaf-Similar Trees` problem
 - [x] `10/01/2024` Add solution for the `Amount of Time for Binary Tree to Be Infected` problem
+- [x] `13/01/2024` Add solution for the `Minimum Number of Steps to Make Two Strings Anagram` problem
 
 ## Review solution
 
