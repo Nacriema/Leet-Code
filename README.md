@@ -135,6 +135,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `14/01/2024` Add solution for the `Determine if Two Strings Are Close` problem
 - [x] `15/01/2024` Add solution for the `Find Players With Zero or One Losses` problem
 - [x] `16/01/2024` Add solution for the `Insert Delete GetRandom O(1)` problem
+- [x] `17/01/2024` Add solution for the `Unique Number of Occurrences` problem
 
 ## Review solution
 
