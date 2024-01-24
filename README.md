@@ -137,6 +137,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `16/01/2024` Add solution for the `Insert Delete GetRandom O(1)` problem
 - [x] `17/01/2024` Add solution for the `Unique Number of Occurrences` problem
 - [x] `22/01/2024` Add solution for the `Set Mismatch` problem
+- [x] `24/01/2024` Add solution for the `Pseudo-Palindromic Paths in a Binary Tree` problem
 
 ## Review solution
 
