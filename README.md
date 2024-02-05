@@ -139,6 +139,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `22/01/2024` Add solution for the `Set Mismatch` problem
 - [x] `24/01/2024` Add solution for the `Pseudo-Palindromic Paths in a Binary Tree` problem
 - [x] `02/02/2024` Add solution for the `Divide Array Into Arrays With Max Difference` problem
+- [x] `05/02/2024` Add solution for the `Sequential Digits` problem
 
 ## Review solution
 
