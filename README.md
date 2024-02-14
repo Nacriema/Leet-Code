@@ -142,6 +142,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `05/02/2024` Add solution for the `Sequential Digits` problem
 - [x] `06/02/2024` Add solution for the `Group Anagrams` problem
 - [x] `07/02/2024` Add solution for the `Sort Characters By Frequency` problem
+- [x] `14/02/2024` Add solution for the `Rearrange Array Elements by Sign` problem
 
 ## Review solution
 
