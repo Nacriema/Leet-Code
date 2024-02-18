@@ -145,6 +145,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `14/02/2024` Add solution for the `Rearrange Array Elements by Sign` problem
 - [x] `15/02/2024` Add solution for the `Find Polygon With the Largest Perimeter` problem
 - [x] `16/02/2024` Add solution for the `Least Number of Unique Integers after K Removals` problem
+- [x] `18/02/2024` Add solution for the `Meeting Rooms III` problem
 
 ## Review solution
 
