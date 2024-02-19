@@ -146,7 +146,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `15/02/2024` Add solution for the `Find Polygon With the Largest Perimeter` problem
 - [x] `16/02/2024` Add solution for the `Least Number of Unique Integers after K Removals` problem
 - [x] `18/02/2024` Add solution for the `Meeting Rooms III` problem
-- [x] `19/02/2024` Add solution for the `Power of Two` problem
+- [x] `19/02/2024` Add solution for the `Power of Two`, `Find the Distance Value Between Two Arrays` problem
 
 ## Review solution
 
