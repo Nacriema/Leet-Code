@@ -148,6 +148,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `18/02/2024` Add solution for the `Meeting Rooms III` problem
 - [x] `19/02/2024` Add solution for the `Power of Two`, `Find the Distance Value Between Two Arrays` problem
 - [x] `20/02/2024` Add solution for the `Missing Number` problem
+- [x] `26/02/2024` Add solution for the `Same Tree` problem
 
 ## Review solution
 
