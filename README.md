@@ -151,6 +151,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `26/02/2024` Add solution for the `Same Tree` problem
 - [x] `05/03/2024` Add solution for the `Minimum Length of String After Deleting Similar Ends` problem
 - [x] `08/03/2024` Add solution for the `Count Elements With Maximum Frequency` problem
+- [x] `12/03/2024` Add solution for the `Custom Sort String` problem
 
 ## Review solution
 
