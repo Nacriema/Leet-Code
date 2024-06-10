@@ -156,6 +156,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `07/06/2024` Add solution for the `Replace Words` problem
 - [x] `08/06/2024` Add solution for the `Continuous Subarray Sum` problem
 - [x] `09/06/2024` Add solution for the `Subarray Sums Divisible By K` problem
+- [x] `10/06/2024` Add solution for the `Height Checker` problem
 
 ## Review solution
 
