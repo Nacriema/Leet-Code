@@ -158,6 +158,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `09/06/2024` Add solution for the `Subarray Sums Divisible By K` problem
 - [x] `10/06/2024` Add solution for the `Height Checker` problem
 - [x] `11/06/2024` Add solution for the `Relative Sort Array` problem
+- [x] `13/06/2024` Add solution for the `Minimum Number of Moves to Seat Everyone` problem
 
 ## Review solution
 
