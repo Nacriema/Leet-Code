@@ -160,6 +160,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `11/06/2024` Add solution for the `Relative Sort Array` problem
 - [x] `13/06/2024` Add solution for the `Minimum Number of Moves to Seat Everyone` problem
 - [x] `16/06/2024` Add solution for the `Minimum Increment To Make Array Unique` problem
+- [x] `17/06/2024` Add solution for the `Sum of Square Numbers` problem
 
 ## Review solution
 
