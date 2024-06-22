@@ -163,6 +163,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `17/06/2024` Add solution for the `Sum of Square Numbers` problem
 - [x] `19/06/2024` Add solution for the `Minimum Number of Days to Make M Bouquets` problem
 - [x] `20/06/2024` Add solution for the `Magnetic Force Between Two Balls` problem
+- [x] `22/06/2024` Add solution for the `Count Number of Nice Subarrays` problem
 
 ## Review solution
 
