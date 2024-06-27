@@ -164,6 +164,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `19/06/2024` Add solution for the `Minimum Number of Days to Make M Bouquets` problem
 - [x] `20/06/2024` Add solution for the `Magnetic Force Between Two Balls` problem
 - [x] `22/06/2024` Add solution for the `Count Number of Nice Subarrays` problem
+- [x] `27/06/2023` Add solution for the `Find Center of Star Graph` problem
 
 ## Review solution
 
