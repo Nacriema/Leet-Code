@@ -166,6 +166,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `22/06/2024` Add solution for the `Count Number of Nice Subarrays` problem
 - [x] `27/06/2024` Add solution for the `Find Center of Star Graph` problem
 - [x] `07/07/2024` Add solution for the `Water Bottles` problem
+- [x] `08/07/2024` Add solution for the `Find The Winner Of The Circular Game` problem
 
 ## Review solution
 
