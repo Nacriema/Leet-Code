@@ -169,6 +169,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `08/07/2024` Add solution for the `Find The Winner Of The Circular Game` problem
 - [x] `09/07/2024` Add solution for the `Average Waiting Time` problem
 - [x] `10/07/2024` Add solution for the `Crawler Log Folder` problem
+- [x] `12/07/2024` Add solution for the `Reverse Substrings Between Each Pair of Parentheses` problem
 
 ## Review solution
 
