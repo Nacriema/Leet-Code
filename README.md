@@ -172,6 +172,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `12/07/2024` Add solution for the `Reverse Substrings Between Each Pair of Parentheses` problem
 - [x] `17/07/2024` Add solution for the `Delete Nodes And Return Forest` problem
 - [x] `19/07/2024` Add solution for the `Lucky Numbers in a Matrix` problem
+- [x] `20/07/2024` Add solution for the ``
 
 ## Review solution
 
