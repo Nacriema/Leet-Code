@@ -174,7 +174,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `19/07/2024` Add solution for the `Lucky Numbers in a Matrix` problem
 - [x] `20/07/2024` Add solution for the `Find Valid Matrix Given Row and Column Sums` problem
 - [x] `21/07/2024` Add solution for the `Trapping Rain Water` problem
-- [x] `22/07/2024` Add solution for the `Sort The People` problem
+- [x] `22/07/2024` Add solution for the `Sort The People`, `Word Pattern` problem
 
 ## Review solution
 
