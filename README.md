@@ -176,7 +176,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `21/07/2024` Add solution for the `Trapping Rain Water` problem
 - [x] `22/07/2024` Add solution for the `Sort The People`, `Word Pattern`, `Summary Ranges` problem
 - [x] `26/07/2024` Add solution for the `Find the City With the Smallest Number of Neighbors at a Threshold Distance` problem
-- [x] `27/07/2024` Add solution for the `Count Complete Tree Nodes` problem
+- [x] `27/07/2024` Add solution for the `Count Complete Tree Nodes`, `Average of Levels in Binary Tree` problem
 
 ## Review solution
 
