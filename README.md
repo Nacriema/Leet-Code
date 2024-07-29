@@ -178,7 +178,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `26/07/2024` Add solution for the `Find the City With the Smallest Number of Neighbors at a Threshold Distance` problem
 - [x] `27/07/2024` Add solution for the `Count Complete Tree Nodes`, `Average of Levels in Binary Tree` problem
 - [x] `28/07/2024` Add solution for the `Minimum Cost to Convert String I` problem
-- [x] `29/07/2024` Add solution for the `Count Number of Teams`, `Minimum Absolute Difference in BST`, `Find Peak Element` problem
+- [x] `29/07/2024` Add solution for the `Count Number of Teams`, `Minimum Absolute Difference in BST`, `Find Peak Element`, `Pow(x, n)` problem
 
 ## Review solution
 
