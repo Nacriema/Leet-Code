@@ -181,6 +181,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `29/07/2024` Add solution for the `Count Number of Teams`, `Minimum Absolute Difference in BST`, `Find Peak Element`, `Pow(x, n)` problem
 - [x] `01/08/2024` Add solution for the `Number of Senior Citizens` problem
 - [x] `03/08/2024` Add solution for the `Make Two Arrays Equal by Reversing Subarrays` problem
+- [x] `05/08/2024` Add solution for the ` Kth Distinct String in an Array` problem
 
 ## Review solution
 
