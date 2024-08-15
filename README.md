@@ -185,6 +185,7 @@ Example: `reorganize-string.py` will solve the problem stated at `https://leetco
 - [x] `06/08/2024` Add solution for the `Spiral Matrix`, `Minimum Number of Pushes to Type Word II` problem      
 - [x] `09/08/2024` Add solution for the `Spiral Matrix III` problem
 - [x] `10/08/2024` Add solution for the `Magic Squares In Grid` problem
+- [x] `15/08/2024` Add solution for the `Lemonade Change` problem
 
 ## Review solution
 
